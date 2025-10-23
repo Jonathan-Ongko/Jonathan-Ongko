@@ -4,9 +4,9 @@
 <h2>👨‍🍳My Hobby🥞</h2>
 <h3>cooking makes me feel happy. I like to try new receipes every now and then. And make delicious food for the people that i know and love.</h3>
 <h2>My picture 😁🥖</h2>
-
+<img src="PASTE-YOUR-LINK-HERE" alt="Jonathan Ongko" width="400">
 <h2>🥗 My Favorite Dishes 🍣</h2>
-<li>Salmon sashimi 🍣 </li>
+<li>mon sashimi 🍣 </li>
 <li>Indomie 🍜 </li>
 <li>Onigirir 🍙 </li>
 <li>Chocolate Chip Cookies 🍪 </li>
