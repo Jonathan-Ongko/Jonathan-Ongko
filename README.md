@@ -1,5 +1,5 @@
 <h1>👋 HII im jojo </h1>
-<h2>abot mee</h2>
+<h2>about mee</h2>
 <h3> my full name is jonathn Ongko Wijaya, im new to this coding stuff so im not really that good at coding, but im excited to learn. I love cooking and sharing food with others with my friends and family.</h3>
 <h2>👨‍🍳My Hobby🥞</h2>
 <h3>cooking makes me feel happy. I like to try new receipes every now and then. And make delicious food for the people that i know and love.</h3>
