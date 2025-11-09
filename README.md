@@ -8,7 +8,7 @@
   <img src="https://drive.google.com/uc?export=view&id=10N5ZutitVuApc4Lhke977KEguemFV_bw" alt="My photo" width="480"/>
 </p>
 <h2>🥗 My Favorite Dishes 🍣</h2>
-<li>mon sashimi 🍣 </li>
+<li>samon sashimi 🍣 </li>
 <li>Indomie 🍜 </li>
 <li>Onigirir 🍙 </li>
 <li>Chocolate Chip Cookies 🍪 </li>
